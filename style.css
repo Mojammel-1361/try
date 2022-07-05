@@ -8,6 +8,7 @@ body{
     display: flex;
 }
 
+
 .sec-part{
     display: flex;
    background-image: url("Frame 58.jpg");
@@ -75,4 +76,63 @@ p{
     margin-left: 300px;
     margin-top: 10px;
     ;
+}
+
+.rec{
+    text-align: center;
+    margin-top: 20px;
+    font-style: inherit;
+}
+
+.product1 img{
+    height: 250px;
+    width: 400px;
+    radius: 14px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.product1 {
+    height: 480px;
+    width: 450px;
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 5px 6px 19px;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    
+    
+    
+}
+
+.item{
+    display: flex;
+    margin-left: 100px;
+}
+
+.midea{
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 5px 6px 19px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 90%;
+    border-radius: 15px;
+
+}
+
+.like{
+    margin-left: 200px;
+    margin-top: 0px;
+    font-weight: bold;
+    
+}
+
+.end{
+    background-color: black;
+    color: rgb(239, 170, 170);
+    text-align: center;
+    height: 150px;
+    padding-top: 10px;
+    margin-top: 17px;
 }
