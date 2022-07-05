@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.Hlight{
+    color: orange;
+}
+.first-part {
+    display: flex;
+}
+
+.sec-part{
+    display: flex;
+   background-image: url("Frame 58.jpg");
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+.conten{
+    margin-left: 35px;
+    padding-right: 35px;
+}
+h1{
+    font-size: 50px;
+    margin-top: 80px;
+    padding-top: 40px;
+    font-style: italic;
+}
+p{
+    font-size: 15px;
+    color: rgb(136, 126, 126);
+}
+
+.btn{
+        position: absolute;
+        font-size: 29px;
+        padding: 7px;
+        background-color:#e3690be4;
+        color: #fff;
+        border:none;
+        border-radius:10px;
+}
+
+.img img{
+    height: 560px;
+    margin-right: 25px;
+}
+.img{
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.about{
+    text-align: center;
+}
+
+.img2{
+    height: 500px;
+    margin-left: 100px;
+    padding-left: 100px;
+}
+
+.sec p {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.btn2{
+    position: absolute;
+    font-size: 29px;
+    padding: 7px;
+    background-color:#ea8bb1e4;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    margin-left: 300px;
+    margin-top: 10px;
+    ;
+}
